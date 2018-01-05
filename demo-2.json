@@ -8,6 +8,7 @@
   {
     "name":"Pooja",
     "username":"pooja.g",
-    "role":"UI Developer"
+    "role":"UI Developer",
+    "skill":["javascript"]
   }
 ]
