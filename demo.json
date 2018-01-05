@@ -1,0 +1,12 @@
+var data=[
+  {
+    "name":"Akshay",
+    "age":"30",
+    "role":"UI Developer"
+  },
+  {
+    "name":"Mohite",
+    "age":"31",
+    "role":"SR. UI Developer"
+  }
+]
