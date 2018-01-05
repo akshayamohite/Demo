@@ -1,0 +1,13 @@
+[
+  {
+    "name":"Abhishek",
+    "username":"abhishek.m",
+    "role":"UI Developer",
+    "Skill":["Javascript", "Node JS"]
+  },
+  {
+    "name":"Pooja",
+    "username":"pooja.g",
+    "role":"UI Developer"
+  }
+]

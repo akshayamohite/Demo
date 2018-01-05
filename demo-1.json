@@ -1,0 +1,20 @@
+[
+  {
+    "name":"Akshay",
+    "username":"akshay.m",
+    "role":"UI Developer",
+    "skill":["HTML","Javascript","React"]
+  },
+  {
+    "name":"Ashish",
+    "username":"ashish.p",
+    "role":"UI Developer",
+    "skill":["HTML","CSS", "Javascript"]
+  },
+  {
+    "name":"Unmesh",
+    "username":"unmesh.g",
+    "role":"UI Developer",
+    "skill":["HTML", "CSS"]
+  }
+]
